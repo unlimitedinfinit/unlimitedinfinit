@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @unlimitedinfinit, but you can call me Joshua Abrams. I navigate the realms of real estate and tech innovation with the curiosity of a lifelong learner.
-- 👀 My interests are a mosaic of 🔍 social justice, 💻 cutting-edge technology, 🎮 immersive video games, 🌿 the serene beauty of nature, and quality time with my 🐕 beloved dog.
+-  My interests are a mosaic of 🔍 social justice, 💻 cutting-edge technology, 🎮 immersive video games, 🌿 the serene beauty of nature, and quality time with my 🐕 beloved dog liberty!
 - 🌱 On the tech frontier, I’m currently mastering 🚀 Kubernetes and Docker, aiming to revolutionize app scalability. My exploration into blockchain and Web 3.0 technologies is fueled by a vision to meld the digital and physical realms, particularly in real estate.
-- 💞️ I’m on a quest to collaborate with fellow visionaries 🤝 who are keen to integrate blockchain or Web 3.0 technology into real estate, paving the way for innovative solutions in property and beyond.
 - 📫 Reach out and let’s connect: 📧 abramslive@gmail.com. I’m all about forging meaningful connections and embarking on collaborative journeys.
-- ⚡ Fun fact: My journey into the professional world was unconventional – I became the youngest real estate agent ever, navigating the licensing exam just days after my 18th birthday, thanks to an enrollment snafu at 17.
-- 🚀 Aspiring Jedi and technology enthusiast, I embrace each day as an adventure, ready to tackle the unknown with the wisdom of Yoda and the courage of Skywalker.
