@@ -1,5 +1,5 @@
 # Joshua Abrams — @unlimitedinfinit
-**Prodigy. System Architect. Legal Savant. Disabled Polymath. Genius & Guru.**
+**Prodigy. System Architect. Legal Savant. Disabled Genius & Guru.**
 I'm Joshua Abrams — a self-taught engineer, legal strategist, and digital freedom fighter. Born into chaos, forged in adversity, and wired to disrupt broken systems. 
 From surviving the foster care system and homelessness to single-handedly winning over a dozen civil lawsuits as a pro se litigant, I don’t just write code — I write history.
 With over a decade of experience in IT infrastructure, cloud engineering, cybersecurity, and full-stack development, I specialize in building tools that empower the underrepresented. 
