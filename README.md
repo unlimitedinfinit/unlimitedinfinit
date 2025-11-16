@@ -4,6 +4,7 @@ IT Engineer | Legal Advocate | Nonprofit Founder
 From Group Home foster care and homeless to Senior Systems Engineer.
 
 I'm the founder and CTO of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3)) nonprofit charity.
+
 Single handedly build and ship production-grade 2 different SaaS and the nonprofit website to empower the underrepresented.
 
 * 📫 **Email:** abramslive@gmail.com or josh@truejust.org
