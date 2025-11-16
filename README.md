@@ -1,4 +1,5 @@
-# Joshua Abrams —  IT Engineer | Legal Advocate | Nonprofit Founder
+# Joshua Abrams —  
+IT Engineer | Legal Advocate | Nonprofit Founder
 
 From homeless at 18 to self-taught Senior Systems Engineer. I've supported Azure DevOps pipelines at **Microsoft Xbox**, managed FedRAMP environments at **Granicus**, and migrated enterprise systems at **Dell** & **LabCorp**.
 
