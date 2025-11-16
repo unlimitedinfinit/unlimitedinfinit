@@ -8,7 +8,7 @@ I'm the founder and CTO of [**Just Liberty Inc.**](https://truejust.org/), a (50
 Single handedly build and ship production-grade 2 different SaaS and the nonprofit website to empower the underrepresented.
 
 * 📫 **Email:** abramslive@gmail.com or josh@truejust.org
-* 🌐 **Nonprofit:** [truejust.org](https://truejust.org)  which i also built
+* 🌐 **Nonprofit:** [truejust.org](https://truejust.org)
 
 ---
 
