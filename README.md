@@ -1,4 +1,4 @@
-# Joshua Abrams —  
+# Josh Abrams —  
 IT Engineer | Legal Advocate | Nonprofit Founder
 
 From homeless at 18 to self-taught Senior Systems Engineer. I've supported Azure DevOps pipelines at **Microsoft Xbox**, managed FedRAMP environments at **Granicus**, and migrated enterprise systems at **Dell** & **LabCorp**.
@@ -50,4 +50,6 @@ My production code is currently in private repos. I am now in the process of ext
 * **Global Imaging Specialist** @ LabCorp
 * **MSP Server Administrator** @ NewTek
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=unlimitedinfinit&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=unlimitedinfinit&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimitedinfinit&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unlimitedinfinit&show_icons=true&theme=radical&hide_border=true)
