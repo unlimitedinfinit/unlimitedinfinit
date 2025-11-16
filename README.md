@@ -1,8 +1,8 @@
-# Joshua Abrams — Foster Care → Federal Lawsuits → Built Legal/Political SaaS Alone
+# Joshua Abrams —  IT Engineer | Legal Advocate | Nonprofit Founder
 
 From homeless at 18 to self-taught Senior Systems Engineer. I've supported Azure DevOps pipelines at **Microsoft Xbox**, managed FedRAMP environments at **Granicus**, and migrated enterprise systems at **Dell** & **LabCorp**.
 
-Now, I'm the founder and CTO of [**Just Liberty Inc. (501(c)(3))**](https://truejust.org/), where I single-handedly build and ship production-grade SaaS to empower the underrepresented.
+Now, I'm the founder and CTO of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3)) nonprofit charity where I single-handedly build and ship production-grade SaaS to empower the underrepresented.
 
 * 📫 **Email:** abramslive@gmail.com
 * 🌐 **Nonprofit:** [truejust.org](https://truejust.org)
