@@ -13,11 +13,11 @@ Single handedly build and ship production-grade 2 different SaaS and the nonprof
 ---
 
 ## 🔥 Live Production SaaS
-They are full-stack, production-grade platforms helping real people today.
+Built full-stack, production-grade platforms helping real people today.
 
 | Project | Live URL | Description |
 | :--- | :--- | :--- |
-| **Just Legal** | [**justlegal.truejust.org**](https://justlegal.truejust.org/) | A multi-tenant case management SaaS for indigent defendants and pro se litigants. |
+| **Just Legal** | [**justlegal.truejust.org**](https://justlegal.truejust.org/) | A multi-tenant case management SaaS for pro se litigants to educate and empower users in navigating complex legal issues. |
 | **Just Politics** | [**justpolitics.truejust.org**](https://justpolitics.truejust.org/dashboard) | A civic engagement platform with a value-alignment engine to help voters find their matched candidates. |
 
 ## 🚀 Core Competencies
