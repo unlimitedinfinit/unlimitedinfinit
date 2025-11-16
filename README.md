@@ -58,10 +58,15 @@ My production code is currently in private repos. I am now in the process of ext
 
 # On a Personal Note 
 I'm an Autistic polymath. My passions are sharing philosophies, inventions, and my journey on YouTube → @CodeandCourage
+
 At 37, I'm authoring a book about this entire odyssey — guided by faith, fueled by a passion for helping others, and driven by a lifelong obsession with learning and mastering any field I touch.
+
 Massive movie buff, TV addict, anime degenerate — if it's actually good, I've seen it multiple times and will talk your ear off about it.
+
 Buddhist by philosophy. Hard determinist by conviction (and I'll die on that hill).
+
 I'm very funny, ridiculously kind, and carry stupid amounts of empathy for people.
+
 I trust the process.
 I trust God.
 And I believe what we do — and why we do it — truly matters.
