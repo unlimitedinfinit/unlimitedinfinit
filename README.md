@@ -12,8 +12,8 @@ Single handedly build and ship production-grade 2 different SaaS and the nonprof
 
 ---
 
-## 🔥 Live Production SaaS (Built Solo)
-These aren't tutorials. They are full-stack, production-grade platforms helping real people today.
+## 🔥 Live Production SaaS
+They are full-stack, production-grade platforms helping real people today.
 
 | Project | Live URL | Description |
 | :--- | :--- | :--- |
