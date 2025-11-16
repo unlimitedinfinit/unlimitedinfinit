@@ -1,9 +1,9 @@
-# Josh Abrams —  
+# Josh Abrams
 IT Engineer | Legal Advocate | Nonprofit Founder
 
-From homeless at 18 to self-taught Senior Systems Engineer. I've supported Azure DevOps pipelines at **Microsoft Xbox**, managed FedRAMP environments at **Granicus**, and migrated enterprise systems at **Dell** & **LabCorp**.
+From Group Home foster care and homeless to Senior Systems Engineer.
 
-Now, I'm the founder and CTO of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3)) nonprofit charity where I single-handedly build and ship production-grade SaaS to empower the underrepresented.
+I'm the founder and CTO of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3)) nonprofit charity where I single-handedly build and ship production-grade SaaS to empower the underrepresented.
 
 * 📫 **Email:** abramslive@gmail.com or josh@truejust.org
 * 🌐 **Nonprofit:** [truejust.org](https://truejust.org)
@@ -54,9 +54,12 @@ My production code is currently in private repos. I am now in the process of ext
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimitedinfinit&layout=compact&theme=radical&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unlimitedinfinit&show_icons=true&theme=radical&hide_border=true)
 
-On a Personal Note I'm an Autistic polymath.
-I rebuild broken systems & fight for justice.
-Prodigy powered by faith I share philosophies, inventions, and my journey on YouTube → @CodeandCourageAt 37, I'm authoring a book about this entire odyssey — guided by faith, fueled by a passion for helping others, and driven by a lifelong obsession with learning and mastering any field I touch.Also: massive movie buff, TV addict, anime degenerate — if it's actually good, I've seen it multiple times and will talk your ear off about it.
-Buddhist by philosophy. Hard determinist by conviction (and I'll die on that hill, red-faced and loud.I'm very funny, ridiculously kind, and carry stupid amounts of empathy for people — but my oppositional defiant disorder makes normal communication and lasting friendships feel like solving a Rubik's cube with boxing gloves on. It isolates me, yet it's the same fire that makes me fight injustice when no one else will.But I trust the process.
+# On a Personal Note 
+I'm an Autistic polymath. My passions are sharing philosophies, inventions, and my journey on YouTube → @CodeandCourage
+At 37, I'm authoring a book about this entire odyssey — guided by faith, fueled by a passion for helping others, and driven by a lifelong obsession with learning and mastering any field I touch.
+Massive movie buff, TV addict, anime degenerate — if it's actually good, I've seen it multiple times and will talk your ear off about it.
+Buddhist by philosophy. Hard determinist by conviction (and I'll die on that hill).
+I'm very funny, ridiculously kind, and carry stupid amounts of empathy for people.
+I trust the process.
 I trust God.
 And I believe what we do — and why we do it — truly matters.
