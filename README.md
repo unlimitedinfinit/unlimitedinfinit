@@ -38,12 +38,7 @@ My experience splits evenly between high-level systems engineering and full-stac
 ## 📦 Open-Source Roadmap
 My production code is currently in private repos. I am now in the process of extracting, sanitizing, and open-sourcing production-ready components from my live platforms.
 
-**Upcoming Repos:**
-* `justlegal-firebase-auth-starter`: Production-ready Firebase Auth (Google/Email) + Firestore security rules.
-* `legal-case-intake-form`: Reusable React Native form component for case intake w/ validation & PDF generation.
-* `firestore-security-rules-legal`: Battle-tested Firestore rules for user-owned documents and admin roles.
-* `react-native-pdf-generator`: The core PDF generation logic from the Just Legal platform.
-* `justpolitics-value-alignment-agent`: The core RAG agent for scoring candidate positions against user values.
+| **Luminar Flow** | is fully open source https://github.com/unlimitedinfinit/Lumina   or https://github.com/unlimitedinfinit/Lumina.git Feel free to branch and play
 
 ---
 
