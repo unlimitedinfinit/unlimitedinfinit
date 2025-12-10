@@ -19,7 +19,9 @@ Built full-stack, production-grade platforms helping real people today.
 | :--- | :--- | :--- |
 | **Just Legal** | [**justlegal.truejust.org**](https://justlegal.truejust.org/) | A multi-tenant case management SaaS for pro se litigants to educate and empower users in navigating complex legal issues. |
 | **Just Politics** | [**justpolitics.truejust.org**](https://justpolitics.truejust.org/dashboard) | A civic engagement platform with a value-alignment engine to help voters find their matched candidates. |
+| **Luminar Flow** | [**games.truejust.org**](https://games.truejust.org/) | A Zen physics puzzle game powered by React Three Fiber. **[Play it live](https://games.truejust.org/)** or clone the repo to adapt the custom particle engine yourself! |
 
+<br />
 ## 🚀 Core Competencies
 My experience splits evenly between high-level systems engineering and full-stack product development.
 
