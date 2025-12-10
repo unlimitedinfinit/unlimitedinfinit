@@ -18,7 +18,9 @@ Built full-stack, production-grade platforms helping real people today.
 | **Just Legal** | [**justlegal.truejust.org**](https://justlegal.truejust.org/) | A multi-tenant case management SaaS for pro se litigants to educate and empower users in navigating complex legal issues. |
 | **Just Politics** | [**justpolitics.truejust.org**](https://justpolitics.truejust.org/dashboard) | A civic engagement platform with a value-alignment engine to help voters find their matched candidates. |
 | **Luminar Flow** | [**games.truejust.org**](https://games.truejust.org/) | A Zen physics puzzle game powered by React Three Fiber. **[Play it live](https://games.truejust.org/)** or clone the repo to adapt the custom particle engine yourself! |
-https://github.com/user-attachments/assets/e32bb506-e202-46e6-92ce-0a8cc1b20e6a
+
+<img width="3839" height="1896" alt="Lumina PIc" src="https://github.com/user-attachments/assets/a1abd0b0-6caa-463c-9a5c-9c8c812cf57c" />
+
 
 
 
