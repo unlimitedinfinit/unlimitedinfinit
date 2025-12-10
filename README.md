@@ -1,8 +1,6 @@
 # Josh Abrams
 Systems Engineer | Founder | Inventor | Full Stack Developer
 
-From Group Home foster care and homeless to Senior Systems Engineer.
-
 I'm the founder of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3)) nonprofit charity.
 
 Sole Architect and Developer of two production-grade SaaS platforms and a nonprofit ecosystem designed to empower the underrepresented.
