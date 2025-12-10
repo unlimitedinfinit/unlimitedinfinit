@@ -5,7 +5,7 @@ From Group Home foster care and homeless to Senior Systems Engineer.
 
 I'm the founder and CTO of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3)) nonprofit charity.
 
-Single handedly build and ship production-grade 2 different SaaS and the nonprofit website to empower the underrepresented.
+Sole Architect and Developer of two production-grade SaaS platforms and a nonprofit ecosystem designed to empower the underrepresented.
 
 * 📫 **Email:** abramslive@gmail.com or josh@truejust.org
 * 🌐 **Nonprofit:** [truejust.org](https://truejust.org)
@@ -54,16 +54,6 @@ My production code is currently in private repos. I am now in the process of ext
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unlimitedinfinit&show_icons=true&theme=radical&hide_border=true)
 
 # On a Personal Note 
-I'm an Autistic polymath. My passions are sharing philosophies, inventions, and my journey on YouTube → @CodeandCourage
-
-At 37, I'm authoring a book about this entire odyssey — guided by faith, fueled by a passion for helping others, and driven by a lifelong obsession with learning and mastering any field I touch.
-
-Massive movie buff, TV addict, anime degenerate — if it's actually good, I've seen it multiple times and will talk your ear off about it.
-
-Buddhist by philosophy. Hard determinist by conviction (and I'll die on that hill).
-
-I'm very funny, ridiculously kind, and carry stupid amounts of empathy for people.
-
-I trust the process.
-I trust God.
-And I believe what we do — and why we do it — truly matters.
+Just a cool guy who loves to code, invent, and share ideas. I’ve overcome plenty of obstacles, and now I live with purpose and empathy. 
+My interests are all over the place: Physics and philosophy? Yes. Video games and anime? Definitely. Tarot and numerology? That too. 
+I’m writing a book, staying motivated, and trying to be a light for others
