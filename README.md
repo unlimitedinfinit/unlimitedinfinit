@@ -19,13 +19,11 @@ Built full-stack, production-grade platforms helping real people today.
 | **Just Politics** | [**justpolitics.truejust.org**](https://justpolitics.truejust.org/dashboard) | A civic engagement platform with a value-alignment engine to help voters find their matched candidates. |
 | **Luminar Flow** | [**games.truejust.org**](https://games.truejust.org/) | A Zen physics puzzle game powered by React Three Fiber. **[Play it live](https://games.truejust.org/)** or clone the repo to adapt the custom particle engine yourself! |
 
-<img width="3839" height="1896" alt="Lumina PIc" src="https://github.com/user-attachments/assets/a1abd0b0-6caa-463c-9a5c-9c8c812cf57c" />
-
-
-
-
+<img width="3039" height="1096" alt="Lumina PIc" src="https://github.com/user-attachments/assets/a1abd0b0-6caa-463c-9a5c-9c8c812cf57c" />
 
 <br />
+<br />
+
 ## 🚀 Core Competencies
 My experience splits evenly between high-level systems engineering and full-stack product development.
 
