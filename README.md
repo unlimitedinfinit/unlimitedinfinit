@@ -29,13 +29,11 @@ My experience splits evenly between high-level systems engineering and full-stac
 
 | Systems, Cloud & DevOps | Full-Stack Development |
 | :--- | :--- |
+| C, C++, Python | Bash, Rust |
 | Azure DevOps & Pipelines | React (Web & Native) |
-| FedRAMP Compliance | TypeScript |
-| Microsoft Intune / Autopilot | Node.js / Express.js |
-| Active Directory / Entra ID | PostgreSQL / Drizzle ORM |
 | VMware ESXi / vSphere | Firebase (Auth, Firestore) |
-| PowerShell, Chef, Ruby | Tailwind CSS / shadcn/ui |
-| Jira / Confluence | Vite / ESBuild |
+| PowerShell, Chef, Ruby | Node.js / Express.js |
+
 
 ## 📦 Open-Source
 My production code is currently in private repos. I am now in the process of extracting, sanitizing, and open-sourcing production-ready components from my live platforms.
