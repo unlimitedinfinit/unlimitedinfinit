@@ -65,6 +65,6 @@ My production code is currently in private repos. I am now in the process of ext
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unlimitedinfinit&show_icons=true&theme=radical&hide_border=true)
 
 # On a Personal Note 
-Just a cool guy<img width="102" height="124" alt="shrug" src="https://github.com/user-attachments/assets/0b898917-245c-4a70-a740-970123ee334b" />
+Just a cool guy<img width="90" alt="shrug" src="https://github.com/user-attachments/assets/0b898917-245c-4a70-a740-970123ee334b" />
  who loves to code, invent, and share ideas. I try to live with purpose and empathy found faith and peace through helping others. 
 My interests are philosophy, Video games and TV/Movie/anime nerd.
