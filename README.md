@@ -37,10 +37,13 @@ My experience splits evenly between high-level systems engineering and full-stac
 | PowerShell, Chef, Ruby | Tailwind CSS / shadcn/ui |
 | Jira / Confluence | Vite / ESBuild |
 
-## 📦 Open-Source Roadmap
+## 📦 Open-Source
 My production code is currently in private repos. I am now in the process of extracting, sanitizing, and open-sourcing production-ready components from my live platforms.
 
 | **Luminar Flow** | is fully open source https://github.com/unlimitedinfinit/Lumina   or https://github.com/unlimitedinfinit/Lumina.git Feel free to branch and play
+
+**Hardware & Embedded Engineering**
+| Hot Wheels Speed Trap | is an interactive physics exhibit using Arduino & IR sensors. Includes original 2019 source + modern refactor. [https://github.com/unlimitedinfinit/Hot-Wheels-Speed-Trap](https://github.com/unlimitedinfinit/Toy-Car-Speed-Trap)
 
 ---
 
