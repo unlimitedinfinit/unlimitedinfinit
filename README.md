@@ -40,7 +40,7 @@ My experience splits evenly between high-level systems engineering and full-stac
 ## 📦 Open-Source
 My production code is currently in private repos. I am now in the process of extracting, sanitizing, and open-sourcing production-ready components from my live platforms.
 
-| Luminar Flow | is fully a fun physics game puzzle engine, open source https://github.com/unlimitedinfinit/Lumina or Games.Truejst.org Feel free to branch and play
+| Luminar Flow | is fully a fun physics game puzzle engine, open source https://github.com/unlimitedinfinit/Lumina or [Games.Truejst.org](https://games.truejust.org/) Feel free to branch and play
 
 | Toy Car Speed Trap | is an interactive physics exhibit using Arduino & IR sensors. Includes original 2019 source + modern refactor. [https://github.com/unlimitedinfinit/Hot-Wheels-Speed-Trap](https://github.com/unlimitedinfinit/Toy-Car-Speed-Trap)
 
