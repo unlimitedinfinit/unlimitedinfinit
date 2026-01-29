@@ -1,14 +1,19 @@
 # Josh Abrams
 Systems Engineer | Founder | Inventor | Full Stack Developer
 
-I'm the founder of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3)) nonprofit charity.
-<img width="500" alt="Screenshot 2026-01-28 222905" src="https://github.com/user-attachments/assets/1cc6e700-60ef-459d-a3be-ea80bdb2e52f" /> | <img width="500" alt="Screenshot 2026-01-28 222256" src="https://github.com/user-attachments/assets/204dce63-863f-46ea-b84d-95f897c7802a" />
+I'm the founder of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3)) nonprofit charity. 
+* 🌐 **Nonprofit:** [truejust.org](https://truejust.org)
 
+<p align="left">
+  <img width="48%" alt="Just Liberty Screenshot 1" src="https://github.com/user-attachments/assets/1cc6e700-60ef-459d-a3be-ea80bdb2e52f" />
+  &nbsp;
+  <img width="48%" alt="Just Liberty Screenshot 2" src="https://github.com/user-attachments/assets/204dce63-863f-46ea-b84d-95f897c7802a" />
+</p>
 
 Sole Architect and Developer of two production-grade SaaS platforms and a nonprofit ecosystem designed to empower the underrepresented.
 
 * 📫 **Email:** abramslive@gmail.com or josh@truejust.org
-* 🌐 **Nonprofit:** [truejust.org](https://truejust.org)
+
 
 ---
 
@@ -19,7 +24,7 @@ Built full-stack, production-grade platforms helping real people today.
 | :--- | :--- | :--- |
 | **Just Legal** | [**justlegal.truejust.org**](https://justlegal.truejust.org/) | A multi-tenant case management SaaS for pro se litigants to educate and empower users in navigating complex legal issues.<br><br><img width="400" alt="Just Legal Dashboard" src="https://github.com/user-attachments/assets/201d5492-2a71-473c-ab3f-1a74099d1d0d" /> |
 | **Just Politics** | [**justpolitics.truejust.org**](https://justpolitics.truejust.org/dashboard) | A civic engagement platform with a value-alignment engine to help voters find their matched candidates.<br><br><img width="400" alt="Just Politics Dashboard" src="https://github.com/user-attachments/assets/c9f6531b-e775-4868-a1ee-744b3abe3633" /> |
-| **Luminar Flow** | [**games.truejust.org**](https://games.truejust.org/) | A Zen physics puzzle game powered by React Three Fiber. **[Play it live](https://games.truejust.org/)** or clone the repo!<br><br><img width="400" alt="Lumina Pic" src="https://github.com/user-attachments/assets/a1abd0b0-6caa-463c-9a5c-9c8c812cf57c" /> |
+| **Luminar Flow** | [**games.truejust.org**](https://games.truejust.org/) | A Zen physics puzzle game powered by React Three Fiber. **[Play it live](https://games.truejust.org/)** or clone the repo!<br><br> |
 
 **Lumina is fully open source:** [github.com/unlimitedinfinit/Lumina](https://github.com/unlimitedinfinit/Lumina)
 <img width="3039" height="1096" alt="Lumina PIc" src="https://github.com/user-attachments/assets/a1abd0b0-6caa-463c-9a5c-9c8c812cf57c" />
