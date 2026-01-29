@@ -46,16 +46,17 @@ My production code is currently in private repos. I am now in the process of ext
 
 ## 💼 Career History
 * **Senior Systems Engineer** @ Granicus (via Robert Half)
-* **System Analyst II** @ Microsoft (Xbox Engineering Support)
-* **Systems Administrator** @ Dell EMC
+* **System Analyst II** @ Microsoft (via KForce)
+* **Migration Specialist** @ Dell EMC
 * **Global Imaging Specialist** @ LabCorp
-* **MSP Server Administrator** @ NewTek
+* **Systems Administrator** @ NewTek
+* **Systems Engineer** @ERT
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=unlimitedinfinit&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimitedinfinit&layout=compact&theme=radical&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unlimitedinfinit&show_icons=true&theme=radical&hide_border=true)
 
 # On a Personal Note 
-Just a cool guy who loves to code, invent, and share ideas. I’ve overcome plenty of obstacles, and now I live with purpose and empathy. 
-My interests are all over the place: Physics and philosophy? Yes. Video games and anime? Definitely. Tarot and numerology? That too. 
-I’m writing a book, staying motivated, and trying to be a light for others
+Just a cool guy<img width="204" height="247" alt="shrug" src="https://github.com/user-attachments/assets/0b898917-245c-4a70-a740-970123ee334b" />
+ who loves to code, invent, and share ideas. I try to live with purpose and empathy found faith and peace through helping others. 
+My interests are philosophy, Video games and TV/Movie/anime nerd.
