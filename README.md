@@ -5,7 +5,7 @@ I'm the founder of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3))
 * 🌐 **Nonprofit:** [truejust.org](https://truejust.org)
 
 <p align="left">
-  <img width="42%" alt="Just Liberty Screenshot 1" src="https://github.com/user-attachments/assets/1cc6e700-60ef-459d-a3be-ea80bdb2e52f" />
+  <img width="44%" alt="Just Liberty Screenshot 1" src="https://github.com/user-attachments/assets/1cc6e700-60ef-459d-a3be-ea80bdb2e52f" />
   &nbsp;
   <img width="48%" alt="Just Liberty Screenshot 2" src="https://github.com/user-attachments/assets/204dce63-863f-46ea-b84d-95f897c7802a" />
 </p>
