@@ -2,6 +2,8 @@
 Systems Engineer | Founder | Inventor | Full Stack Developer
 
 I'm the founder of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3)) nonprofit charity.
+<img width="600" alt="Screenshot 2026-01-28 222256" src="https://github.com/user-attachments/assets/204dce63-863f-46ea-b84d-95f897c7802a" />
+
 
 Sole Architect and Developer of two production-grade SaaS platforms and a nonprofit ecosystem designed to empower the underrepresented.
 
@@ -16,8 +18,11 @@ Built full-stack, production-grade platforms helping real people today.
 | Project | Live URL | Description |
 | :--- | :--- | :--- |
 | **Just Legal** | [**justlegal.truejust.org**](https://justlegal.truejust.org/) | A multi-tenant case management SaaS for pro se litigants to educate and empower users in navigating complex legal issues. |
+<img width="600" alt="Screenshot 2026-01-28 222326" src="https://github.com/user-attachments/assets/201d5492-2a71-473c-ab3f-1a74099d1d0d" />
 | **Just Politics** | [**justpolitics.truejust.org**](https://justpolitics.truejust.org/dashboard) | A civic engagement platform with a value-alignment engine to help voters find their matched candidates. |
+<img width="600" alt="Screenshot 2026-01-28 222341" src="https://github.com/user-attachments/assets/c9f6531b-e775-4868-a1ee-744b3abe3633" />
 | **Luminar Flow** | [**games.truejust.org**](https://games.truejust.org/) | A Zen physics puzzle game powered by React Three Fiber. **[Play it live](https://games.truejust.org/)** or clone the repo to adapt the custom particle engine yourself! |
+
 Lumina is fully open source |  | https://github.com/unlimitedinfinit/Lumina
 <img width="3039" height="1096" alt="Lumina PIc" src="https://github.com/user-attachments/assets/a1abd0b0-6caa-463c-9a5c-9c8c812cf57c" />
 
