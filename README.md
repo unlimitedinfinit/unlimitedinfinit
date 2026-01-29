@@ -1,4 +1,4 @@
-# Josh Abrams
+# Joshua M. Abrams
 Systems Engineer | Founder | Inventor | Full Stack Developer
 
 I'm the founder of [**Just Liberty Inc.**](https://truejust.org/), a (501(c)(3)) nonprofit charity. 
