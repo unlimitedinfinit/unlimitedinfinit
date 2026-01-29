@@ -26,8 +26,6 @@ Lumina is fully open source |  | https://github.com/unlimitedinfinit/Lumina
 
 ## 🚀 Core Competencies
 My experience splits evenly between high-level systems engineering and full-stack product development.
-
-| Systems, Cloud & DevOps | Full-Stack Development |
 | :--- | :--- |
 | C, C++, Python | Bash, Rust |
 | Azure DevOps & Pipelines | React (Web & Native) |
