@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Joshua+M.+Abrams;Systems+Engineer+%7C+Founder+%7C+Inventor" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&text=Joshua%20M.%20Abrams&fontSize=50&fontAlignY=35&desc=Systems%20Engineer%20%7C%20Founder%20%7C%20Inventor%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn&fontColor=FFFFFF" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-abrams"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -30,11 +30,11 @@ I'm the **sole architect and developer** of two production-grade SaaS platforms 
 
 ---
 
-## 🔥 Live Production SaaS
+## 🔥 Live Production Platforms
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>⚖️ Just Legal</h3>
       <a href="https://justlegal.truejust.org/"><img src="https://img.shields.io/badge/LIVE-justlegal.truejust.org-success?style=for-the-badge" alt="Just Legal" /></a>
       <br /><br />
@@ -42,7 +42,7 @@ I'm the **sole architect and developer** of two production-grade SaaS platforms 
       <br /><br />
       <em>Multi-tenant case management SaaS for pro se litigants — educating and empowering users through complex legal issues.</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>🗳️ Just Politics</h3>
       <a href="https://justpolitics.truejust.org/dashboard"><img src="https://img.shields.io/badge/LIVE-justpolitics.truejust.org-success?style=for-the-badge" alt="Just Politics" /></a>
       <br /><br />
@@ -50,7 +50,9 @@ I'm the **sole architect and developer** of two production-grade SaaS platforms 
       <br /><br />
       <em>Civic engagement platform with a value-alignment engine to help voters find their matched candidates.</em>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <h3>🌌 Luminar Flow</h3>
       <a href="https://games.truejust.org/"><img src="https://img.shields.io/badge/PLAY_IT_LIVE-games.truejust.org-blueviolet?style=for-the-badge" alt="Luminar Flow" /></a>
       <br /><br />
@@ -60,6 +62,21 @@ I'm the **sole architect and developer** of two production-grade SaaS platforms 
       <br />
       <a href="https://github.com/unlimitedinfinit/Lumina">
         <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" alt="Repo" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛡️ Open Season</h3>
+      <img src="https://img.shields.io/badge/STATUS-In_Development-orange?style=for-the-badge" alt="In Development" />
+      <br /><br />
+      <em>The Zero-Trust Fraud Hunting Toolkit. A local-first, cryptographically secure desktop app for citizens to track, verify, and report government fraud. Your data never leaves your machine.</em>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Tauri_2.0-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <br />
+      <a href="https://github.com/unlimitedinfinit/OpenSeason">
+        <img src="https://img.shields.io/badge/View_Repo-OpenSeason-critical?style=for-the-badge&logo=github" alt="Repo" />
       </a>
     </td>
   </tr>
@@ -102,7 +119,14 @@ I'm the **sole architect and developer** of two production-grade SaaS platforms 
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
+      <h3>🛡️ Open Season</h3>
+      <p>Zero-Trust Fraud Hunting Toolkit — local-first desktop app built with Tauri 2.0, Rust, and Svelte 5. XChaCha20Poly1305 encryption, Argon2id KDF, integrated Typst PDF engine.</p>
+      <a href="https://github.com/unlimitedinfinit/OpenSeason">
+        <img src="https://img.shields.io/badge/View_Repo-OpenSeason-critical?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td width="33%">
       <h3>🌌 Luminar Flow</h3>
       <p>A fun physics puzzle game engine — fully open source. Branch it, play it, remix it!</p>
       <a href="https://github.com/unlimitedinfinit/Lumina">
@@ -112,7 +136,7 @@ I'm the **sole architect and developer** of two production-grade SaaS platforms 
         <img src="https://img.shields.io/badge/Play_Live-🎮-success?style=for-the-badge" />
       </a>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3>🏎️ Toy Car Speed Trap</h3>
       <p>An interactive physics exhibit using Arduino & IR sensors. Includes original 2019 source + modern refactor.</p>
       <a href="https://github.com/unlimitedinfinit/Toy-Car-Speed-Trap">
@@ -171,5 +195,5 @@ Just a cool guy who loves to code, invent, and share ideas. I try to live with p
 </p>
 
 <p align="center">
-  <em>"Building tech that empowers the underrepresented — one line of code at a time."</em>
+  <em>"Fuck you Pay Me."</em>
 </p>
