@@ -195,5 +195,5 @@ Just a cool guy who loves to code, invent, and share ideas. I try to live with p
 </p>
 
 <p align="center">
-  <em>"Fuck you Pay Me."</em>
+  <em>"If a man lives a pure life, nothing can destroy him - Buddha."</em>
 </p>
