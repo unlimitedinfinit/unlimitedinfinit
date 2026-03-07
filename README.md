@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linktr.ee/joshuaabrams"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=yellow" alt="X" /></a>
+  <a href="https://linktr.ee/joshuaabrams"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=yellow" alt="Link Tree" /></a>
 </p>
 
 <p align="center">
