@@ -24,7 +24,7 @@
 
 > **Founder of [Just Liberty Inc.](https://truejust.org/)** — a 501(c)(3) nonprofit charity empowering the underrepresented through technology.
 
-I'm the **sole architect and developer** of two production-grade SaaS platforms and a nonprofit ecosystem. I build things that matter — tools for people who need them most.
+I'm the **sole architect and developer** of two production-grade SaaS platforms and a nonprofit ecosystem. I build tools for people who need them most.
 
 <p align="center">
   <img width="44%" alt="Just Liberty Screenshot 1" src="https://github.com/user-attachments/assets/1cc6e700-60ef-459d-a3be-ea80bdb2e52f" />
