@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&text=Joshua%20M.%20Abrams&fontSize=50&fontAlignY=35&desc=Systems%20%26%20Software%20Engineer&descAlignY=55&descSize=18&animation=fadeIn&fontColor=FFFFFF" width="100%" />
-</p>
+ </p>
+
+<img width="908" height="500" alt="banner" src="https://github.com/user-attachments/assets/215d6a2f-21f1-4d10-b1fb-81ab336c6604" />
+
 
 <p align="center">
-  <a href="https://linktr.ee/joshuaabrams"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=LinkTree&logoColor=yellow" alt="Link Tree" /></a>
-</p>
-
-<p align="center">
+  <a href="https://linktr.ee/joshuaabrams"><img src="https://img.shields.io/badge/Link%20Tree-000000?style=for-the-badge&logo=LinkTree&logoColor=yellow" alt="Link Tree" /></a>
   <a href="https://www.linkedin.com/in/joshua-abrams"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/unlimitedinfinit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/unlimitedingenu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
