@@ -8,7 +8,7 @@ I designed a 4D spacetime coordinate system for relativistic navigation. Across 
 
 <br/>
 
-`josh@truejust.org` · [Just Liberty Incorporated](https://truejust.org/) · [LinkedIn](https://www.linkedin.com/in/joshua-abrams/) · [X](https://x.com/unlimitedingenu)
+ [NEWjosh.com](https://newjosh.com/)`josh@truejust.org` · [Just Liberty Incorporated](https://truejust.org/) · [LinkedIn](https://www.linkedin.com/in/joshua-abrams/) · [X](https://x.com/unlimitedingenu)
 
 </div>
 
