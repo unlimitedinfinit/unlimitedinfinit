@@ -52,11 +52,7 @@ Sole architect. Built and maintained in production as [Just Liberty Incorporated
       </blockquote>
     </td>
     <td width="33%" valign="top">
-      <blockquote>
-        <h3><a href="https://github.com/unlimitedinfinit/OpenSeason">🛡️ OPEN SEASON</a></h3>
-        <em>Local-first, cryptographically hardened desktop application for citizens and watchdogs to document government fraud.</em><br><br>
-        <sub>Zero Trust • Svelte 5 + Tauri v2 • XChaCha20-Poly1305 • Rust + SQLite</sub>
-      </blockquote>
+    
     </td>
   </tr>
 </table>
@@ -73,9 +69,9 @@ Sole architect. Built and maintained in production as [Just Liberty Incorporated
       <em>Deterministic 4D spacetime coordinate standard and 136-byte zero-heap integrity sealer for aerospace and robotics.</em>
     </td>
     <td width="25%" valign="top">
-      <a href="https://github.com/unlimitedinfinit/OpenSeason"><b>🛡️ Open Season</b></a><br>
+      <a href=""><b>🛡️ </b></a><br>
       <sub>Rust · Svelte 5 · Tauri v2</sub><br>
-      <em>Zero-trust whistleblower security vault with Argon2id key derivation and client-side envelope encryption.</em>
+      <emn.</em>
     </td>
     <td width="25%" valign="top">
       <a href="https://github.com/unlimitedinfinit/Toy-Car-Speed-Trap"><b>⚡ Toy-Car-Speed-Trap</b></a><br>
